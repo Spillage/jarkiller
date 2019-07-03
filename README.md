@@ -12,3 +12,5 @@ ps: 项目中的某些缺失的类需要通过编译生成.
 
 ## 效果
 在构建的时候会去扫描项目的maven依赖, 如果出现黑名单中的依赖则放弃构建.
+![start](https://github.com/ColorfulWolf/resource/blob/master/images/2D58AB0D-FB69-4a19-9C59-9D7FC1BACA5B.png)
+![end](https://github.com/ColorfulWolf/resource/blob/master/images/317686F5-F1BF-423c-B169-513EBF810EB1.png)
