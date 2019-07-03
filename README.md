@@ -2,7 +2,8 @@
 jenkins插件, 用于构建时检查依赖的jar包
 
 ## 安装
-用maven打包，将target中的hpi文件导入jenkins即可完成安装。
+用maven打包，将target中的hpi文件导入jenkins即可完成安装.
+ps: 项目中的某些缺失的类需要通过编译生成.
 
 ## 配置
 配置有两项
